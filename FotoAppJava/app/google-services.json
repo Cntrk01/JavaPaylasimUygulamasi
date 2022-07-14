@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "283681554250",
+    "project_id": "javafotoapp",
+    "storage_bucket": "javafotoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283681554250:android:0d5271e20150d5c4338bb3",
+        "android_client_info": {
+          "package_name": "com.example.fotoappjava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283681554250-mvf80ju4h7bqqau6f3fhqn7lratg2tad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEyLKYFdISHRH5PXaoHepFbwY8yxk4tvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283681554250-mvf80ju4h7bqqau6f3fhqn7lratg2tad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
